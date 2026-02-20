@@ -1,2 +1,2 @@
-Hello, my first test
-my second test
+Hello, master
+branch nice master
