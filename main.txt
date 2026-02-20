@@ -1,2 +1,4 @@
 Hello, master
 branch nice master
+my second test name
+branch nice
